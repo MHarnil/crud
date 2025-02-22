@@ -21,4 +21,3 @@ app.listen(9001, () => {
     console.log('Server is running on port');
 });
 
-module.exports = app;
